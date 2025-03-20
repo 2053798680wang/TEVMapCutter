@@ -10,4 +10,8 @@
 
 ## 2、<span style="background-color: yellow;">Train MPCutter</span> 
 ### Required configuration and environment
-||   PYTHON=3.7   ||   Pytorch=2.1   ||   scikit_learn=1.3.0   ||   PST_t6  [link](https://datashare.biochem.mpg.de/s/ac9ufZ0NB2IrkZL)   ||	<br><br>
+||   Python=3.7   ||   Pytorch=2.1   ||   scikit_learn=1.3.0   ||   PST_t6  [link](https://datashare.biochem.mpg.de/s/ac9ufZ0NB2IrkZL)   ||	<br><br>
+•	Train_model contains the code for model training. <br>
+•	best_model is the one we attempted to adopt in this experiment. <br>
+•	contact_map is s the extraction process of the residue contact map. <br>
+•	embedding is the embedding vector extracted by the trained model. <br>
